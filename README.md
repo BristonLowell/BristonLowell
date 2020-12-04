@@ -1,10 +1,10 @@
-### Hi there, I'm Josh :wave:
-- :telescope: I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Briston](https://github.com/BristonLowell) and [Brig](https://github.com/briglowell) Lowell
+### Hi there, I'm Briston :wave:
+- :telescope: I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Josh](https://github.com/JoshKPreston) and [Brig](https://github.com/briglowell) Lowell
 - :seedling: Learning Vue 3, soon to jump into some C#
 - :zap: Fun fact: I love to play guitar/piano/bass/drums
 ---
 ### Connect with me on LinkedIn:
-[<img align="left" alt="JoshKPreston | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BristonLowell | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
 ### Languages and Tools:
@@ -44,7 +44,7 @@
 ---
 <br />
 <summary>GitHub Stats</summary>
-[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=JoshKPreston)](https://github.com/JoshKPreston/github-readme-stats)
+[![Briston's github stats](https://github-readme-stats.vercel.app/api?username=BristonLowell)](https://github.com/BristonLowell/github-readme-stats)
 [linkedin]: https://linkedin.com/in/joshkpreston/
 <details>
   <summary>Recent GitHub Activity</summary>
