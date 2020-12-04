@@ -4,7 +4,7 @@
 - :zap: Fun fact: I love ALL sports
 ---
 ### Connect with me on LinkedIn:
-<img align="left" alt="BristonLowell | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<img align="left" alt="BristonLowell | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]: https://www.linkedin.com/in/briston-lowell-475447176/
 <br />
 <br />
 ### Languages and Tools:
