@@ -44,10 +44,11 @@
 ---
 <br />
 <summary>GitHub Stats</summary>
-[![Briston's github stats](https://github-readme-stats.vercel.app/api?username=BristonLowell)](https://github.com/BristonLowell/github-readme-stats)
+<!-- [![Briston's github stats](https://github-readme-stats.vercel.app/api?username=BristonLowell)](https://github.com/BristonLowell/github-readme-stats) -->
 <!-- [linkedin]: https://www.linkedin.com/in/briston-lowell-475447176/ -->
 <details>
   <summary>Recent GitHub Activity</summary>
+  https://docs.google.com/spreadsheets/d/1RNW_CPWejP3db_CbKrDH65dQKrCSqbkvQ3tGbSBL2sY/edit#gid=0
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
