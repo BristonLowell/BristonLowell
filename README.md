@@ -1,7 +1,7 @@
 ### Hi there, I'm Briston :wave:
 - :telescope: I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Josh](https://github.com/JoshKPreston) and [Brig](https://github.com/briglowell) Lowell
-- :seedling: Learning Vue 3, soon to jump into some C#
-- :zap: Fun fact: I love to play guitar/piano/bass/drums
+- :seedling: In the process of becoming a Full-Stack Developer at BoiseCodeWorks
+- :zap: Fun fact: I love ALL sports
 ---
 ### Connect with me on LinkedIn:
 [<img align="left" alt="BristonLowell | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
