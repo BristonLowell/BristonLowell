@@ -45,7 +45,7 @@
 ---
 <br />
 <summary>GitHub Stats</summary>
-[Briston's github stats](https://github-readme-stats.vercel.app/api?username=BristonLowell)]
+[!Briston's github stats](https://github-readme-stats.vercel.app/api?username=BristonLowell)]
 <br />
 (https://docs.google.com/spreadsheets/d/1RNW_CPWejP3db_CbKrDH65dQKrCSqbkvQ3tGbSBL2sY/edit#gid=0)
 <!-- [linkedin]: https://www.linkedin.com/in/briston-lowell-475447176/ -->
