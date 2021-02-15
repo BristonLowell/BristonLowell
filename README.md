@@ -1,6 +1,6 @@
 ### Hi there, I'm Briston :wave:
 - :telescope: I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Josh](https://github.com/JoshKPreston) Preston and [Brig](https://github.com/briglowell) Lowell
-- :seedling: In the process of becoming a Full-Stack Developer at BoiseCodeWorks
+- :seedling: Became a Full-Stack Developer at BoiseCodeWorks
 - :zap: Fun fact: I love ALL sports
 ---
 ### Connect with me on LinkedIn:
